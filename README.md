@@ -12,7 +12,7 @@ These are in French or English, depending on my mood the day I wrote them.
 - 13/10/2020 : [Method .format()](https://github.com/Demesmaeker/The_Watch/blob/main/method_format.ipynb) (Jupyter Notebook)
 - 04/11/2020 : [Python's Collections](https://github.com/Demesmaeker/My_Watch/blob/main/Collections.ipynb) (Jupyter Notebook)
 - 25/11/2020 : [La Reconnaissance Vocale](https://github.com/Demesmaeker/My_Watch/blob/main/Reconnaissance%20Vocale.ipynb) (Jupyter Notebook)
-- 16/12/2020 : [Python's Decorators (maybe)]() (Jupyter Notebook)
+- 16/12/2020 : [Christmas Turtles](https://github.com/Demesmaeker/My_Watch/tree/main/Turtle) (Python's code)
 
 
 
